@@ -3,23 +3,10 @@
 
 - 🔭 Ik werk momenteel aan **Steam**
 
-- 🌱 I’m currently learning **#**
-
-- 👯 I’m looking to collaborate on **#**
-
-- 🤝 I’m looking for help with **#**
-
 - 👨‍💻 Onze Github link [https://github.com/fortnite-bot/SteamTEAM/tree/main](https://github.com/fortnite-bot/SteamTEAM/tree/main)
-
-- 📝 I regularly write articles on [#](#)
-
-- 💬 Ask me about **#**
 
 - 📫 How to reach me **sharona.bhoelai@student.hu.nl**
 
-- 📄 Know about my experiences [#](#)
-
-- ⚡ Fun fact **#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
