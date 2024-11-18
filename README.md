@@ -1,11 +1,11 @@
 <h1 align="center">Hoi, wij zijn Sharona</h1>
 <h3 align="center">Wij zijn het SteamTeam</h3>
 
-- 🔭 Ik werk momenteel aan **Steam**
+- 🔭 Wij werken momenteel aan **Steam**
 
 - 👨‍💻 Onze Github link [https://github.com/fortnite-bot/SteamTEAM/tree/main](https://github.com/fortnite-bot/SteamTEAM/tree/main)
 
-- 📫 How to reach me **sharona.bhoelai@student.hu.nl**
+- 📫 Hoe kan je ons bereiken **sharona.bhoelai@student.hu.nl**
 
 
 <h3 align="left">Connect with me:</h3>
